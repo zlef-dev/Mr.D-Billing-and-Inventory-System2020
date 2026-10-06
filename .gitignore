@@ -1,0 +1,12 @@
+.vs/
+*.suo
+*.user
+packages/
+.smoke-test/
+MrDbillinventory/obj/
+MrDbillinventory/bin/Debug/
+MrDbillinventory/bin/Release/
+MrDbillinventory/bin/InteropCheck/
+*.laccdb
+*.ldb
+# Keep the existing Access database in MrDbillinventory/bin/MrDbase.accdb.
